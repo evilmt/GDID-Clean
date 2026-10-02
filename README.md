@@ -185,6 +185,50 @@ www.bing.com/RelatedSearch 这个接口 上传了 一些机器码 研究半天 �
 
 只能通过 屏蔽 bing 或者 禁止程序联网 进行解决使用 AdGuard for Windows(收费) 或者Zen 禁用 ( Zen 还是没AdGuard好用 差挺远的 就是AdGuard要收费 不过可以 刷180天试用 循环用
 
+office 替代
+
+LibreOffice
+
+OfficeSuite
+
+ONLYOFFICE
+
+Firefox 替代
+
+Librewolf
+
+floorp
+
+Mullvad Browser
+
+Tor Browser
+
+Waterfox
+
+IceCat
+
+Iceweasel便携版
+
+Zen Browser
+
+Iceraven(手机版)
+
+firefox号称 最保护隐私 结果默认开着遥测 收集数据等功能 可以关
+
+chrome 替代
+
+Helium
+
+Brave
+
+Ungoogled-Chromium
+
+Turbo Browser
+
+猫眼浏览器
+
+SRWare Iron
+
 
 
 ---
