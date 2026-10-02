@@ -207,6 +207,26 @@ www.bing.com/RelatedSearch 这个接口 上传了 一些机器码 研究半天 �
 
 最好隔一段时间 删了虚拟机 重开一个
 
+
+
+ps
+
+如果需要恢复某个网站
+
+请在hosts文件中删除 然后保存
+
+在管理员权限的 powershell 执行
+
+取消某一个域名
+
+Get-DnsClientNrptRule | Where-Object {$_.Namespace -eq "xxxxxx.com"} | Remove-DnsClientNrptRule -Force
+
+
+
+如果是取消所有封禁的域名 运行 
+
+Get-DnsClientNrptRule | Remove-DnsClientNrptRule -Force
+
 ---
 
 ## 其他软件推荐
