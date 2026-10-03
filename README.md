@@ -87,6 +87,8 @@ https://www.52pojie.cn/thread-2058253-1-1.html
 https://www.52pojie.cn/thread-1139887-1-1.html
 
 
+
+
 Adguard home
 
 [AdguardTeam/AdGuardHome: Network-wide ads & trackers blocking DNS server](https://github.com/AdguardTeam/AdGuardHome)
@@ -185,6 +187,8 @@ www.bing.com/RelatedSearch 这个接口 上传了 一些机器码 研究半天 �
 
 只能通过 屏蔽 bing 或者 禁止程序联网 进行解决使用 AdGuard for Windows(收费) 或者Zen 禁用 ( Zen 还是没AdGuard好用 差挺远的 就是AdGuard要收费 不过可以 刷180天试用 循环用
 
+
+
 office 替代
 
 LibreOffice
@@ -192,6 +196,8 @@ LibreOffice
 OfficeSuite
 
 ONLYOFFICE
+
+
 
 Firefox 替代
 
@@ -214,6 +220,8 @@ Zen Browser
 Iceraven(手机版)
 
 firefox号称 最保护隐私 结果默认开着遥测 收集数据等功能 可以关
+
+
 
 chrome 替代
 
@@ -378,9 +386,9 @@ https://github.com/Chunyu33/light-c
 
 VeraCrypt
 
-https://www.ghxi.com/veracrypt.html
-
 https://www.veracrypt.fr/en/Downloads.html
+
+https://www.ghxi.com/veracrypt.html
 
 一般覆写一次就差不多了
 
@@ -406,3 +414,9 @@ https://www.veracrypt.fr/en/Downloads.html
 ## 免责声明
 
 本脚本及其中的所有修改、配置均基于作者个人需求编写。使用本脚本所带来的任何系统故障、软件不兼容、数据丢失或更新失败，均由使用者自行承担风险。建议在运行脚本前**完整备份重要数据**并**创建系统还原点**。
+
+
+
+参考项目
+
+https://github.com/SmtimesIWndr/gdid-reversal
