@@ -235,6 +235,8 @@ SRWare Iron
 
 ## 运行说明
 
+在管理员权限的 Powershell 运行
+
 ./clean.ps1 host   - 对网站进行封禁
 
 ./clean.ps1 kserv - 对核心服务进行封禁
